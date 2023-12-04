@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/fayez/Desktop/euroooo/ros_training/localization_udemy/devel/include/**",
+        "/home/fayez/Desktop/euroooo/ros_training/arduino_serial_com/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/fayez/Desktop/euroooo/ros_training/arduino_serial_com/src/rosserial/rosserial_server/include/**",
+        "/home/fayez/Desktop/euroooo/ros_training/arduino_serial_com/src/rosserial/rosserial_test/include/**",
+        "/home/fayez/Desktop/euroooo/ros_training/localization_udemy/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/fayez/Desktop/euroooo/ros_training/localization_udemy/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/fayez/Desktop/euroooo/ros_training/localization_udemy/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

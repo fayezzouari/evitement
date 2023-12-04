@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/fayez/Desktop/euroooo/ros_training/localization_udemy/devel/lib/python3/dist-packages",
+        "/home/fayez/Desktop/euroooo/ros_training/arduino_serial_com/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/fayez/Desktop/euroooo/ros_training/localization_udemy/devel/lib/python3/dist-packages",
+        "/home/fayez/Desktop/euroooo/ros_training/arduino_serial_com/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
