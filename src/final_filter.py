@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import rospy
-from geometry_msgs import Twist
+from geometry_msgs.msg import Twist
 from sensor_msgs.msg import LaserScan
 import math
 import numpy as np
@@ -21,9 +21,9 @@ def robot_position(data):
     curr_x=data.linear.x
     curr_y=data.linear.y
     curr_phi=data.angular.x
-    rospy.init_node("scans_sub")
     obs=rospy.Subscriber("scan", LaserScan, scan_callback)
     
+
 
 def scan_callback(scan_data):
     
